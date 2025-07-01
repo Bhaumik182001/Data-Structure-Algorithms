@@ -1,27 +1,46 @@
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        int c = 0;
-        int c1 = 0;
-        int c2 = 0;
-        ListNode header = new ListNode(0);
-        ListNode pointer = header;
-        
-        while(c!=0 || l1 != null || l2 != null){
-            if(l1 != null) c1 = l1.val;
-            else c1 = 0;
+        int carry = 0;
+        ListNode p = l1;
+        ListNode q = l2;
+        ListNode r = new ListNode();
+        ListNode temp = r;
 
-            if(l2 != null) c2 = l2.val;
-            else c2 = 0;
-            
-           c += c1 + c2;
-           pointer.next = new ListNode(c%10);
-           pointer = pointer.next;
-           c /= 10;
-
-           if(l1 != null) l1 = l1.next;
-           if(l2 != null) l2 = l2.next; 
+        while(p != null && q != null){
+            int sum = p.val + q.val + carry;
+            carry = sum / 10;
+            ListNode newNode = new ListNode(sum % 10);
+            temp.next = newNode;
+            temp = temp.next;
+            p = p.next;
+            q = q.next;
         }
 
-        return header.next;
+        while(p != null){
+            int sum =p.val + carry;
+            ListNode newNode = new ListNode(sum % 10);
+            carry = sum / 10;
+            temp.next = newNode;
+            temp = temp.next;
+            p = p.next;
+        }
+
+        while(q != null){
+            int sum = q.val + carry;
+            ListNode newNode = new ListNode(sum % 10);
+            carry = sum / 10;
+            temp.next = newNode;
+            temp = temp.next;
+            q = q.next;
+        }
+
+        while(carry != 0){
+            ListNode newNode = new ListNode(carry % 10);
+            temp.next = newNode;
+            temp = temp.next;
+            carry /= 10;
+        }
+
+        return r.next;
     }
 }
