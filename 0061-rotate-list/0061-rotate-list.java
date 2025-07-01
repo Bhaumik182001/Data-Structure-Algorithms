@@ -39,10 +39,10 @@ class Solution {
     }
 
    
-    ListNode newHead = slow.next;
-    slow.next = null;
     fast.next = head;
+    head = slow.next;
+    slow.next = null;
 
-    return newHead;
+    return head;
     }
 }
