@@ -6,7 +6,7 @@ class Solution {
         }
 
         for(int i = 0; i < arr.length; i++){
-            if(temp.contains(arr[i])) continue;
+             if(temp.contains(arr[i])) continue;
             temp.add(arr[i]);
             recursion(arr, i + 1, temp, res);
             temp.remove(temp.size() - 1);
