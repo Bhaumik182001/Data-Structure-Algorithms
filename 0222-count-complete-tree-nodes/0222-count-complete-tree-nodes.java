@@ -18,11 +18,10 @@
 class Solution {
     int preorder(TreeNode root){
         if(root == null) return 0;
-        return 1 +  preorder(root.left) + preorder(root.right);   
+        return 1 + preorder(root.left) + preorder(root.right);
     }
 
     public int countNodes(TreeNode root) {
         return preorder(root);
-     
     }
 }
