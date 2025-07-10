@@ -22,7 +22,7 @@ class Solution {
         if(left != null) return left;
         if(right != null) return right;
 
-        return right;
+        return left != null ? left : right;
         
     }
 }
