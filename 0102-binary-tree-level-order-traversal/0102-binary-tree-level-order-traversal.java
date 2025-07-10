@@ -30,7 +30,7 @@ class Solution {
 
 
             for(int i = 0; i < size; i++){
-                TreeNode curr = q.remove();
+                TreeNode curr = q.poll();
                 level.add(curr.val);
 
                 if(curr.left != null) q.add(curr.left);
