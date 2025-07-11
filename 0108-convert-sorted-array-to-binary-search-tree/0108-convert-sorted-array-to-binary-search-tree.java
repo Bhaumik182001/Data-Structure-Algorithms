@@ -16,7 +16,7 @@
 class Solution {
     TreeNode sol(int[] arr, int low, int high){
       
-         if(low > high) return null;
+        if(low > high) return null;
         int mid = (low + high) / 2;
         TreeNode temp = new TreeNode(arr[mid]);
         temp.left = sol(arr, low, mid - 1);
