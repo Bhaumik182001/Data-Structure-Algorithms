@@ -25,7 +25,7 @@ class Solution {
             int size = q.size();
 
             for(int i = 0; i < size; i++){
-                int[] node = q.poll();
+                int[] node = q.remove();
 
                 for(int j = 0; j < 4; j++){
                     int x = node[0] + dx[j];
