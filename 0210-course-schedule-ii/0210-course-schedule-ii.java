@@ -32,12 +32,12 @@ class Solution {
             res.add(val);
         
 
-        for(int num: adj[val]){
-            indegree[num]--;
-            if(indegree[num] == 0){
-                q.offer(num);
+            for(int num: adj[val]){
+                indegree[num]--;
+                if(indegree[num] == 0){
+                    q.offer(num);
+                }
             }
-        }
 
         }
 
