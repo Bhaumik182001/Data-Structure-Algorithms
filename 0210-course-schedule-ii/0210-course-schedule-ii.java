@@ -41,11 +41,11 @@ class Solution {
 
         }
 
+        if(res.size() != V) return new int[0];
+
         Collections.reverse(res);
 
-        int[] ans = res.stream()
-                              .mapToInt(Integer::intValue)
-                              .toArray();
+        int[] ans = res.stream().mapToInt(Integer::intValue).toArray();
 
         return ans;
     }
