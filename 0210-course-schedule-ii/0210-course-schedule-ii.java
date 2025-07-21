@@ -43,9 +43,15 @@ class Solution {
 
         if(res.size() != V) return new int[0];
 
-        Collections.reverse(res);
+        int len = res.size();
 
-        int[] ans = res.stream().mapToInt(Integer::intValue).toArray();
+        int[] ans = new int[len];
+
+        for(int i = 0; i < ans.length; i++){
+            ans[i] = res.get(len - i - 1);
+        }
+
+      
 
         return ans;
     }
