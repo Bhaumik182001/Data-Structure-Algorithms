@@ -6,8 +6,6 @@ class Solution {
             hs.add(nums[i] + nums[i-1]);
         }
 
-       
-
         return hs.size() < nums.length - 1;
     }
 }
