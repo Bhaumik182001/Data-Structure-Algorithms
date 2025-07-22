@@ -8,6 +8,6 @@ class Solution {
 
        
 
-        return hs.size() <= nums.length - 2;
+        return hs.size() < nums.length - 1;
     }
 }
