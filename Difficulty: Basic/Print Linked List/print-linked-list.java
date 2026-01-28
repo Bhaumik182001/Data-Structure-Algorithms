@@ -1,4 +1,4 @@
-/* Node is defined as
+/*
 class Node {
     int data;
     Node next;
@@ -7,20 +7,19 @@ class Node {
         next = null;
     }
 }*/
-/*
-    Print elements of a linked list on console
-    Head pointer input could be NULL as well for empty list
-*/
 
 class Solution {
-    // Function to display the elements of a linked list in same line
-    void printList(Node head) {
-        // add code here.
-        Node curr = head;
+    public ArrayList<Integer> printList(Node head) {
+        // code here
+        ArrayList<Integer> res = new ArrayList<>();
         
-        while(curr != null){
-            System.out.print(curr.data + " ");
-            curr = curr.next;
+        Node temp = head;
+        
+        while(temp != null){
+            res.add(temp.data);
+            temp = temp.next;
         }
+        
+        return res;
     }
 }
