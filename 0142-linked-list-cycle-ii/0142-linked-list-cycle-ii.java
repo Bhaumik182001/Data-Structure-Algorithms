@@ -18,7 +18,10 @@ public class Solution {
             fast = fast.next.next;
             slow = slow.next;
 
-            if(fast == slow) slow = head;
+            if(fast == slow){
+                slow = head;
+                break;
+            } 
         }
 
         if(fast == null || fast.next == null) return null;
