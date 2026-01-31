@@ -29,15 +29,11 @@ class Solution {
 
         for(int i = 0; i < code.length; i++){
             ans[i] = sum;
-            System.out.println("code[left]: " + code[left] + " sum: " + sum + " left: " + left);
             sum -= code[left++];
             left %= len;
-            System.out.println("left: " + left + " sum: " + sum);
             right++;
             right %= len;
-            System.out.println("right: " + right + " sum: " + sum);
             sum += code[right];
-            System.out.println("code[right]: " + code[right] + " sum: " + sum + " right: " + left);
         }
 
         return ans;
