@@ -1,19 +1,30 @@
 class Solution {
-    public int[] dailyTemperatures(int[] temperatures) {
-        Stack<Integer> st = new Stack<>();
-        int n = temperatures.length;
-        int[] arr = new int[n];
+    class Pair<K,V> {
+        K first;
+        V second;
 
-        for(int i = 0; i < n; i++){
-            while(!st.empty() && temperatures[i] > temperatures[st.peek()]){
-                int prev = st.pop();
-                int diff = i - prev;
-                arr[prev] = diff;
+        public Pair(K k, V v){
+            this.first = k;
+            this.second = v;
+        }
+    }
+
+    public int[] dailyTemperatures(int[] temp) {
+        Stack<Pair<Integer, Integer>> stack = new Stack<>();
+        int[] res = new int[temp.length];
+
+        for(int i = temp.length - 1; i >= 0; i--){
+            if(stack.isEmpty()) res[i] = 0;
+            else {
+                while(!stack.isEmpty() && temp[i] >= stack.peek().first){
+                    stack.pop();
+                }
+                if(stack.isEmpty()) res[i] = 0;
+                else res[i] = stack.peek().second - i;
             }
-
-            st.push(i);
+            stack.push(new Pair(temp[i], i));
         }
 
-        return arr;
+        return res; 
     }
 }
