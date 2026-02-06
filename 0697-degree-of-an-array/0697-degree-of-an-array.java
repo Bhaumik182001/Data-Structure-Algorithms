@@ -3,19 +3,16 @@ class Solution {
         HashMap<Integer, Integer> freq = new HashMap<>();
         int maxDegree = 0;
 
-        // 1. Find the degree of the array
         for (int i = 0; i < nums.length; i++) {
             freq.put(nums[i], freq.getOrDefault(nums[i], 0) + 1);
             maxDegree = Math.max(maxDegree, freq.get(nums[i]));
         }
 
         int minLen = nums.length;
-
-        // 2. Check every number that reached the maxDegree
         for (int num : freq.keySet()) {
             if (freq.get(num) == maxDegree) {
                 
-                // Find left and right bounds for THIS specific number
+
                 int left = 0;
                 int right = nums.length - 1;
 
@@ -33,7 +30,7 @@ class Solution {
                     }
                 }
 
-                // Update the global minimum length
+        
                 minLen = Math.min(minLen, right - left + 1);
             }
         }
