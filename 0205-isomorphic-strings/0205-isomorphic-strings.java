@@ -1,17 +1,21 @@
 class Solution {
-
-    HashMap<Character, Character> h1 = new HashMap<Character, Character>();
-    HashMap<Character, Character> h2 = new HashMap<Character, Character>();
-
-    public  boolean isIsomorphic(String s, String t) {
+    public boolean isIsomorphic(String s, String t) {
+        HashMap<Character, Character> hm1 = new HashMap<>();
+        HashMap<Character, Character> hm2 = new HashMap<>();
         
-        for(int i=0;i<s.length();i++){
-            if(h1.containsKey(s.charAt(i))) if(h1.get(s.charAt(i))!=t.charAt(i)) return false;
-            if(h2.containsKey(t.charAt(i))) if(h2.get(t.charAt(i))!=s.charAt(i)) return false;
+        for(int i = 0; i < s.length(); i++){
+            char a = s.charAt(i);
+            char b = t.charAt(i);
             
-            h1.put(s.charAt(i), t.charAt(i));
-            h2.put(t.charAt(i), s.charAt(i)); 
+            if(hm1.containsKey(a)){
+                if(hm1.get(a) != b)return false;
+            } else hm1.put(a, b);
+
+            if(hm2.containsKey(b)){
+                if(hm2.get(b) != a)return false;
+            } else hm2.put(b, a);
         }
+
         return true;
     }
 }
