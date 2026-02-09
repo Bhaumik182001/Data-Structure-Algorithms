@@ -8,7 +8,7 @@ class Solution {
             hm.put(nums[right], hm.getOrDefault(nums[right], 0) + 1);
 
             while(hm.get(nums[right]) > k){
-                hm.put(nums[right], hm.get(nums[right]) - 1);
+                hm.put(nums[left], hm.get(nums[left]) - 1);
                 left++;
             }
 
