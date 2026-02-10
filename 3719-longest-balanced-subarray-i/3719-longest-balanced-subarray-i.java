@@ -1,30 +1,24 @@
 class Solution {
     public int longestBalanced(int[] nums) {
+        int max = 0;
         int n = nums.length;
-        int maxLen = 0;
 
-        for (int i = 0; i < n; i++) {
-            // Track distinct elements for the subarray starting at i
-            Set<Integer> distinctEven = new HashSet<>();
-            Set<Integer> distinctOdd = new HashSet<>();
+        for(int i = 0; i < n; i++){
+            Set<Integer> odd = new HashSet<>();
+            Set<Integer> even = new HashSet<>();
 
-            for (int j = i; j < n; j++) {
+            for(int j = i; j < n; j++){
                 int val = nums[j];
-                
-                // Add to the appropriate set
-                if (val % 2 == 0) {
-                    distinctEven.add(val);
-                } else {
-                    distinctOdd.add(val);
-                }
 
-                // Check if the current subarray [i...j] is balanced
-                if (distinctEven.size() == distinctOdd.size()) {
-                    maxLen = Math.max(maxLen, j - i + 1);
+                if(val % 2 == 0) even.add(val);
+                else odd.add(val);
+
+                if(odd.size() == even.size()){
+                    max = Math.max(max, j - i + 1);
                 }
             }
         }
 
-        return maxLen;
+        return max;
     }
 }
