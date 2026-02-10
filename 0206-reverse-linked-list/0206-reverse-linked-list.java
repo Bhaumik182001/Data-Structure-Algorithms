@@ -17,7 +17,7 @@ class Solution {
             ListNode r = q.next;
             q.next = p;
             p = q;
-            q = r; 
+            q = r;
         }
 
         return p;
