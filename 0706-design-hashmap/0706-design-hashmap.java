@@ -1,28 +1,72 @@
+import java.util.LinkedList;
+
 class MyHashMap {
-    int[] arr = new int[1000001];
+
+    // A simple Pair class to hold our Key and Value
+    class Pair {
+        int key;
+        int value;
+
+        public Pair(int key, int value) {
+            this.key = key;
+            this.value = value;
+        }
+    }
+
+    // The main storage: An array where each slot holds a LinkedList of Pairs
+    private LinkedList<Pair>[] buckets;
+    private static final int SIZE = 2069; // A prime number reduces collisions
+
     public MyHashMap() {
-        for(int i = 0; i < arr.length; i++){
-            arr[i] = -1;
+        buckets = new LinkedList[SIZE];
+        for (int i = 0; i < SIZE; i++) {
+            buckets[i] = new LinkedList<>();
         }
     }
     
+    // Helper to find the bucket index
+    private int getBucketIndex(int key) {
+        return key % SIZE;
+    }
+
     public void put(int key, int value) {
-        arr[key] = value;
+        int index = getBucketIndex(key);
+        LinkedList<Pair> bucket = buckets[index];
+
+        // Check if key already exists in this bucket
+        for (Pair pair : bucket) {
+            if (pair.key == key) {
+                pair.value = value; // Update existing value
+                return;             // Important: Return immediately so we don't add duplicate
+            }
+        }
+
+        // If key not found, add a new pair
+        bucket.add(new Pair(key, value));
     }
     
     public int get(int key) {
-        return arr[key];
+        int index = getBucketIndex(key);
+        LinkedList<Pair> bucket = buckets[index];
+
+        for (Pair pair : bucket) {
+            if (pair.key == key) {
+                return pair.value;
+            }
+        }
+        
+        return -1; // Not found
     }
     
     public void remove(int key) {
-        arr[key] = -1;
+        int index = getBucketIndex(key);
+        LinkedList<Pair> bucket = buckets[index];
+
+        for (Pair pair : bucket) {
+            if (pair.key == key) {
+                bucket.remove(pair); // Safe to remove here because we return immediately
+                return; 
+            }
+        }
     }
 }
-
-/**
- * Your MyHashMap object will be instantiated and called as such:
- * MyHashMap obj = new MyHashMap();
- * obj.put(key,value);
- * int param_2 = obj.get(key);
- * obj.remove(key);
- */
