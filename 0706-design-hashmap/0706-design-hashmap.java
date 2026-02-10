@@ -2,7 +2,6 @@ import java.util.LinkedList;
 
 class MyHashMap {
 
-    // A simple Pair class to hold our Key and Value
     class Pair {
         int key;
         int value;
@@ -13,9 +12,9 @@ class MyHashMap {
         }
     }
 
-    // The main storage: An array where each slot holds a LinkedList of Pairs
+ 
     private LinkedList<Pair>[] buckets;
-    private static final int SIZE = 2069; // A prime number reduces collisions
+    private static final int SIZE = 2069; 
 
     public MyHashMap() {
         buckets = new LinkedList[SIZE];
@@ -24,7 +23,6 @@ class MyHashMap {
         }
     }
     
-    // Helper to find the bucket index
     private int getBucketIndex(int key) {
         return key % SIZE;
     }
@@ -33,15 +31,14 @@ class MyHashMap {
         int index = getBucketIndex(key);
         LinkedList<Pair> bucket = buckets[index];
 
-        // Check if key already exists in this bucket
         for (Pair pair : bucket) {
             if (pair.key == key) {
-                pair.value = value; // Update existing value
-                return;             // Important: Return immediately so we don't add duplicate
+                pair.value = value; 
+                return;            
             }
         }
 
-        // If key not found, add a new pair
+     
         bucket.add(new Pair(key, value));
     }
     
@@ -55,7 +52,7 @@ class MyHashMap {
             }
         }
         
-        return -1; // Not found
+        return -1; 
     }
     
     public void remove(int key) {
@@ -64,7 +61,7 @@ class MyHashMap {
 
         for (Pair pair : bucket) {
             if (pair.key == key) {
-                bucket.remove(pair); // Safe to remove here because we return immediately
+                bucket.remove(pair); 
                 return; 
             }
         }
