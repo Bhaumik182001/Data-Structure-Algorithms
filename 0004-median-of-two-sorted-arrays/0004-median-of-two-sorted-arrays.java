@@ -1,38 +1,38 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
+        if (nums1.length > nums2.length) {
+            return findMedianSortedArrays(nums2, nums1);
+        }
+
         int m = nums1.length;
         int n = nums2.length;
+        int low = 0, high = m;
 
-        int i = m - 1;
-        int j = n - 1;
-        int k = (m + n) - 1;
+        while (low <= high) {
+            int partitionX = (low + high) / 2;
+            int partitionY = (m + n + 1) / 2 - partitionX;
 
-        int[] arr = new int[k + 1];
+            int maxLeftX = (partitionX == 0) ? Integer.MIN_VALUE : nums1[partitionX - 1];
+            int minRightX = (partitionX == m) ? Integer.MAX_VALUE : nums1[partitionX];
 
-        while(i >= 0 && j>= 0){
-            if(nums1[i] > nums2[j]){
-                arr[k--] = nums1[i--];
+            int maxLeftY = (partitionY == 0) ? Integer.MIN_VALUE : nums2[partitionY - 1];
+            int minRightY = (partitionY == n) ? Integer.MAX_VALUE : nums2[partitionY];
+
+            if (maxLeftX <= minRightY && maxLeftY <= minRightX) {
+                
+                if ((m + n) % 2 == 0) {
+                    return (Math.max(maxLeftX, maxLeftY) + Math.min(minRightX, minRightY)) / 2.0;
+                } else {
+                    return Math.max(maxLeftX, maxLeftY);
+                }
+            } else if (maxLeftX > minRightY) {
+                high = partitionX - 1;
             } else {
-                arr[k--] = nums2[j--];
+                low = partitionX + 1;
             }
         }
 
-        while(i >= 0){
-            arr[k--] = nums1[i--];
-        }
-
-        while(j >= 0){
-            arr[k--] = nums2[j--];
-        }
-
-        double res = 0.0;
-
-        if(arr.length % 2 != 0){
-            res = arr[arr.length/2];
-        } else {
-            res = (double)(arr[arr.length/2] + arr[(arr.length/2) - 1])/2;
-        }
-
-        return res;
+        throw new IllegalArgumentException("Input arrays are not sorted.");
     }
+
 }
