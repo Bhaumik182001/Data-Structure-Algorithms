@@ -14,23 +14,20 @@
  * }
  */
 class Solution {
-    boolean exist = false;
-
-    void pre(TreeNode root, int target, int sum){
-        if(root == null) return;
+    boolean pre(TreeNode root, int target, int sum){
+        if(root == null){
+            return false;
+        }
 
         sum += root.val;
         if(root.left == null && root.right == null){
-            if(sum == target) exist = true;
+            return sum == target;
         }
 
-        pre(root.left, target, sum);
-        pre(root.right, target, sum);
+        return pre(root.left, target, sum) || pre(root.right, target, sum);       
     }
 
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        int sum = 0;
-        pre(root, targetSum, 0);
-        return exist;
+        return pre(root, targetSum, 0);
     }
 }
