@@ -13,16 +13,18 @@
  *     }
  * }
  */
-
 class Solution {
-    boolean check(TreeNode p, TreeNode q){
-        if(p == null && q == null) return true;
-        if(p == null || q == null) return false;
-        if(p.val != q.val) return false;
-        return check(p.left, q.left) && check(p.right, q.right); 
+    public boolean clone(TreeNode node1, TreeNode node2){
+        if(node1 == null && node2 == null) return true;
+        if(node1 == null || node2 == null) return false;
+
+        return (node1.val == node2.val) && (clone(node1.left, node2.left)) && (clone(node1.right, node2.right));
     }
 
     public boolean isSameTree(TreeNode p, TreeNode q) {
-        return check(p, q);
+        if(p == null && q == null) return true;
+        if(p == null || q == null) return false;
+
+        return clone(p, q);
     }
 }
