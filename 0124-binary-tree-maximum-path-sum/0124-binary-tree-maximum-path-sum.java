@@ -28,8 +28,8 @@ class Solution {
         res = Math.max(res, root.val + r);
         res = Math.max(res, root.val);
         
-
-        return root.val + Math.max(l, r);
+        if(Math.max(l, r) + root.val > root.val) return root.val + Math.max(l, r);
+        else return root.val;
     }
 
     public int maxPathSum(TreeNode root) {
