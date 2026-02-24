@@ -29,6 +29,8 @@ class Solution {
                     found = true;
                     arr[0] = i;
                     arr[1] = j;
+                    rr = 0;
+                    cc = 0;
                     dfs(land, i, j, r, c);
                     arr[2] = rr;
                     arr[3] = cc;
