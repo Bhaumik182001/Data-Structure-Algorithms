@@ -38,12 +38,19 @@ class Solution {
 
         for(int i = 0; i < r; i++){
             for(int j = 0; j < c; j++){
-                if(grid[i][j] == 'O' && (i < (r - 1) && j < (c - 1) && i > 0 && j > 0)){
-                    dfs(grid, i, j, r, c);
-                } else if(grid[i][j] == 'O'){
+                boolean isBorder = (i == 0 || j == 0 || i == (r - 1) || j == (c - 1));
+                if(grid[i][j] == 'O' && isBorder){
                     dfsB(grid, i, j, r, c);
                 }  
 
+            }
+        }
+
+        for(int i = 0; i < r; i++){
+            for(int j = 0; j < c; j++){
+                if(grid[i][j] == 'O'){
+                    dfs(grid, i, j, r, c);
+                } 
             }
         }
 
