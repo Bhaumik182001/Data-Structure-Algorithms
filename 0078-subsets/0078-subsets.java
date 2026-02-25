@@ -1,18 +1,20 @@
 class Solution {
-    void fun(int[] arr, int start, List<Integer> temp, ArrayList<List<Integer>> res){
-        res.add(new ArrayList<>(temp)); 
+    void fun(int[] arr, int start, List<Integer> temp, List<List<Integer>> res){
+        res.add(new ArrayList<>(temp));
 
-        for (int i = start; i < arr.length; i++) {
-            temp.add(arr[i]);                  
-            fun(arr, i + 1, temp, res);       
-            temp.remove(temp.size() - 1);      
+        for(int i = start; i < arr.length; i++){
+            temp.add(arr[i]);
+            fun(arr, i + 1, temp, res);
+            temp.remove(temp.size() - 1);
         }
     }
 
-    public List<List<Integer>> subsets(int[] arr) {
+    public List<List<Integer>> subsets(int[] nums) {
         ArrayList<List<Integer>> res = new ArrayList<>();
-        List<Integer> temp = new ArrayList<>();
-        fun(arr, 0, temp, res);
+        List<Integer> temp = new  ArrayList<>();
+
+        fun(nums, 0, temp, res);
+
         return res;
     }
 }
