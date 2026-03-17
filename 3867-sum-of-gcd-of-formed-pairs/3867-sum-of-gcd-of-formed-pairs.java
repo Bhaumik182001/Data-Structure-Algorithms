@@ -6,21 +6,13 @@ class Solution {
 
     public long gcdSum(int[] nums) {
         long[] preGcd = new long[nums.length];
-        long[] maxArr = new long[nums.length]; 
         
         int max = 0;
         int index = 0;
     
         for(int num : nums){
             max = Math.max(max, num);
-            maxArr[index++] = max;
-        }
-
-        index = 0;
-
-        for(int num : nums){
-            preGcd[index] = gcd(maxArr[index], num);
-            index++;
+            preGcd[index++] = gcd(max, num);
         }
 
         Arrays.sort(preGcd);
