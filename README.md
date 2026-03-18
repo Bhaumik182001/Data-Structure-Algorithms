@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0283-move-zeroes/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0904-fruit-into-baskets/) | Medium |
+| [3861-minimum-capacity-box](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/3861-minimum-capacity-box/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
