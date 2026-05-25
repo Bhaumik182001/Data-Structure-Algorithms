@@ -24,10 +24,9 @@ class Solution {
     void balance(TreeNode root){
         if(root == null) return;
 
-        if(height(root.left) - height(root.right) > 1 || height(root.left) - height(root.right) < -1) balanced = false;
-
+        if(height(root.left) - height(root.right) > 1 || (height(root.left) - height(root.right) < -1)) balanced = false;
         balance(root.left);
-        balance(root.right);
+        balance(root.right); 
     }
 
     public boolean isBalanced(TreeNode root) {
