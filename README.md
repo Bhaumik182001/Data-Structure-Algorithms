@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0623-add-one-row-to-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0951-flip-equivalent-binary-trees](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 ## Binary Tree
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0623-add-one-row-to-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0951-flip-equivalent-binary-trees](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 ## Depth-First Search
@@ -63,10 +65,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0623-add-one-row-to-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0951-flip-equivalent-binary-trees](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0100-same-tree/) | Easy |
+| [0623-add-one-row-to-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0623-add-one-row-to-tree/) | Medium |
 <!---LeetCode Topics End-->
