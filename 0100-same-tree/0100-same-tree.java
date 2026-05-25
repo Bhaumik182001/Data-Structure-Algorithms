@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    public boolean clone(TreeNode node1, TreeNode node2){
+    boolean clone(TreeNode node1, TreeNode node2){
         if(node1 == null && node2 == null) return true;
         if(node1 == null || node2 == null) return false;
 
@@ -24,7 +24,7 @@ class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
         if(p == null && q == null) return true;
         if(p == null || q == null) return false;
-
+        
         return clone(p, q);
     }
 }
