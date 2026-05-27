@@ -90,4 +90,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0062-unique-paths/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0062-unique-paths/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
