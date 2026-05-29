@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0064-minimum-path-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,4 +119,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 <!---LeetCode Topics End-->
