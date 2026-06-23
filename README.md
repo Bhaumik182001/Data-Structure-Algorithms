@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1035-uncrossed-lines](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1035-uncrossed-lines/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [3861-minimum-capacity-box](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3862-find-the-smallest-balanced-index](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
 ## Two Pointers
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0881-boats-to-save-people/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,8 +144,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0881-boats-to-save-people/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0881-boats-to-save-people/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 <!---LeetCode Topics End-->
