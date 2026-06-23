@@ -1,31 +1,33 @@
 class Solution {
-    boolean isPalindrome(String s, int i, int j){
-        while(i < j){
-            if(s.charAt(i) != s.charAt(j)) return false;
-            i++;
-            j--;  
-        }
+    boolean palindrome(String s, int i, int j){
         
+        while(i <= j){
+            if(s.charAt(i) != s.charAt(j)) return false;
+            
+            i++;
+            j--;
+        }
+
         return true;
     }
 
     public boolean validPalindrome(String s) {
-        int i = 0;
-        int j = s.length() - 1;
+        int left = 0;
+        int right = s.length() - 1;
         int issues = 0;
         boolean a = false;
         boolean b = false;
 
-        while(i <= j){
-            if(s.charAt(i) == s.charAt(j)){
-                i++;
-                j--;
+        while(left <= right){
+            if(s.charAt(left) == s.charAt(right)){
+                left++;
+                right--;
             } else {
                 issues++;
-                if( issues > 2) return false;
+                if(issues > 2) return false;
 
-                if(s.charAt(i + 1) == s.charAt(j)) a = isPalindrome(s, i + 1, j);
-                if(s.charAt(i) == s.charAt(j - 1)) b = isPalindrome(s, i, j - 1);
+                if(s.charAt(left + 1) == s.charAt(right)) a = palindrome(s, left + 1, right);
+                if(s.charAt(left) == s.charAt(right - 1)) b = palindrome(s, left, right - 1);
 
                 return a || b;
             }
