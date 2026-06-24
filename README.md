@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Prefix Sum
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0443-string-compression/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0680-valid-palindrome-ii/) | Easy |
