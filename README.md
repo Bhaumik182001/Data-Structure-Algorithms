@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1035-uncrossed-lines](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1035-uncrossed-lines/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [3861-minimum-capacity-box](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/3861-minimum-capacity-box/) | Easy |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,10 +52,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [3862-find-the-smallest-balanced-index](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
