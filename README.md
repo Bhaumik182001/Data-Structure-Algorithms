@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1035-uncrossed-lines](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1035-uncrossed-lines/) | Medium |
+| [1652-defuse-the-bomb](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [3861-minimum-capacity-box](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3862-find-the-smallest-balanced-index](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1652-defuse-the-bomb](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1652-defuse-the-bomb/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
