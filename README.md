@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0064-minimum-path-sum/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0268-missing-number/) | Easy |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0072-edit-distance/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1035-uncrossed-lines](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1035-uncrossed-lines/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1143-longest-common-subsequence/) | Medium |
