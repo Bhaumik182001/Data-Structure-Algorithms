@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0268-missing-number/) | Easy |
+| [0290-word-pattern](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0290-word-pattern/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0904-fruit-into-baskets/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0290-word-pattern/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0443-string-compression/) | Medium |
