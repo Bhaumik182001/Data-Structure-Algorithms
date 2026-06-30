@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0064-minimum-path-sum/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0205-isomorphic-strings/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0242-valid-anagram/) | Easy |
@@ -194,4 +196,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
