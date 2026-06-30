@@ -3,25 +3,26 @@ class Solution {
         // code here
         int count0 = 0;
         int count1 = 0;
+        int count = 0;
+        
         HashMap<String, Integer> hm = new HashMap<>();
-        int ans = 0;
-        String key = "0";
-        hm.put(key, 1);
+        hm.put("0", 1);
         
         for(int num : nums){
             if(num == 0) count0++;
             if(num == 1) count1++;
             
-            key = (count0 - count1) + "";
+            int diff = count0 - count1;
+            String key = diff + "";
             
             if(hm.containsKey(key)){
-                ans += hm.get(key);
-                hm.put(key, hm.get(key) + 1);
-            } else {
-                hm.put(key, 1);
+                count += hm.get(key);
             }
+            
+            hm.put(key, hm.getOrDefault(key, 0) + 1);
         }
         
-        return ans;
+        return count;
+        
     }
 }
