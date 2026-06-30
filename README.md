@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0697-degree-of-an-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0697-degree-of-an-array/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1035-uncrossed-lines](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1035-uncrossed-lines/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1652-defuse-the-bomb/) | Easy |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [3862-find-the-smallest-balanced-index](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
 ## Hash Table
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0697-degree-of-an-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0697-degree-of-an-array/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
