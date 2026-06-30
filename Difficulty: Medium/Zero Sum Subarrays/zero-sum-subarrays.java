@@ -1,21 +1,21 @@
 class Solution {
     public int findSubarray(int[] nums) {
         HashMap<Integer, Integer> hm = new HashMap<>();
+        int count = 0;
+        int sum = 0;
         hm.put(0, 1);
         
-        int ans = 0;
-        int curr = 0;
-        
-        for(int num: nums){
-            curr += num;
-            if(hm.containsKey(curr)){
-                ans += hm.get(curr);
-                hm.put(curr, hm.get(curr) + 1);
+        for(int num : nums){
+            sum += num;
+            
+            if(hm.containsKey(sum)){
+                count += hm.get(sum);
+                hm.put(sum, hm.get(sum) + 1);
             } else {
-                hm.put(curr, 1);
+                hm.put(sum, 1);
             }
         }
         
-        return ans;
+        return count;
     }
 }
