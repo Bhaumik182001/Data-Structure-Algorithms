@@ -7,10 +7,9 @@ class Solution {
         
         int sum = 0;
         int count = 0;
-        
         int target = 0;
         
-        for(int num: nums){
+        for(int num : nums){
             sum += num;
             
             if(hm.containsKey(sum - target)){
