@@ -9,6 +9,9 @@ class Solution {
 
             while(hm.get(nums[right]) > k){
                 hm.put(nums[left], hm.get(nums[left]) - 1);
+
+                if(hm.get(nums[left]) == 0) hm.remove(nums[left]);
+
                 left++;
             }
 
