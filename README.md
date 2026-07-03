@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0290-word-pattern/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0697-degree-of-an-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0697-degree-of-an-array/) | Easy |
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0739-daily-temperatures/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -232,5 +235,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
