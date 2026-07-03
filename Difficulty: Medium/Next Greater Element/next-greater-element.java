@@ -1,20 +1,21 @@
 class Solution {
-    public ArrayList<Integer> nextLargerElement(int[] nums) {
+    public ArrayList<Integer> nextLargerElement(int[] arr) {
         // code here
+        Stack<Integer> st = new Stack<>();
         ArrayList<Integer> res = new ArrayList<>();
-        Stack<Integer> stack = new Stack<>();
         
-        for(int i = nums.length - 1; i >= 0; i--){
-            if(stack.isEmpty()){
+        for(int i = arr.length - 1; i >= 0; i--){
+            if(st.isEmpty()){ 
                 res.add(0, -1);
-            } else{
-                while(!stack.isEmpty() && stack.peek() <= nums[i]){
-                    stack.pop();
+            } else {
+                while(!st.isEmpty() && st.peek() <= arr[i]){
+                    st.pop();
                 }
-                if(stack.isEmpty()) res.add(0, -1);
-                else res.add(0, stack.peek());
+                
+                if(st.isEmpty()) res.add(0, -1);
+                else res.add(0, st.peek());
             }
-            stack.push(nums[i]);
+            st.push(arr[i]);
         }
         
         return res;
