@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0901-online-stock-span](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0901-online-stock-span/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0901-online-stock-span/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -237,4 +239,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
