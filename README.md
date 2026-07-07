@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0042-trapping-rain-water/) | Hard |
 | [0062-unique-paths](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0063-unique-paths-ii/) | Medium |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0072-edit-distance](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0072-edit-distance/) | Medium |
 | [0125-valid-palindrome](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -229,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0496-next-greater-element-i/) | Easy |
