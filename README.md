@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0155-min-stack/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0901-online-stock-span](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0901-online-stock-span/) | Medium |
 ## Binary Indexed Tree
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0042-trapping-rain-water/) | Hard |
+| [0155-min-stack](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0739-daily-temperatures/) | Medium |
