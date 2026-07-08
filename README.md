@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0042-trapping-rain-water/) | Hard |
 | [0063-unique-paths-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0064-minimum-path-sum/) | Medium |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0035-search-insert-position/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0268-missing-number](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0268-missing-number/) | Easy |
