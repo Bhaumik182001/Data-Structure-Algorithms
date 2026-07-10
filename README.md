@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1035-uncrossed-lines](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1035-uncrossed-lines/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [2439-minimize-maximum-of-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/3861-minimum-capacity-box/) | Easy |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [2439-minimize-maximum-of-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/2439-minimize-maximum-of-array/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2439-minimize-maximum-of-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [3862-find-the-smallest-balanced-index](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -192,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1035-uncrossed-lines](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1035-uncrossed-lines/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [2439-minimize-maximum-of-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/2439-minimize-maximum-of-array/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0881-boats-to-save-people/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [2439-minimize-maximum-of-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/2439-minimize-maximum-of-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
