@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1035-uncrossed-lines](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1035-uncrossed-lines/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/2439-minimize-maximum-of-array/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
