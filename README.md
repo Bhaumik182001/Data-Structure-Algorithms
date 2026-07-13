@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0064-minimum-path-sum/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0069-sqrtx/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0222-count-complete-tree-nodes/) | Easy |
