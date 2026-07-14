@@ -8,28 +8,28 @@
  */
  
 class Solution {
-    int bSearch(MountainArray mountainArr, int target, int low, int high){
+    int bSearch(MountainArray mountainArray, int target, int low, int high){
         while(low <= high){
-            int mid = (low + high) / 2;
-            int val = mountainArr.get(mid);
+            int mid = low + (high - low) / 2;
+            int val = mountainArray.get(mid);
 
             if(val == target) return mid;
 
-            if(target < val){
-                high = mid - 1;
-            } else {
+            if(val < target){
                 low = mid + 1;
+            } else {
+                high = mid - 1;
             }
         }
 
         return -1;
     }
 
-    int bReverse(MountainArray mountainArr, int target, int low, int high){
+    int bSearchReverse(MountainArray mountainArray, int target, int low, int high){
         while(low <= high){
-            int mid = (low + high) / 2;
+            int mid = low + (high - low) / 2;
+            int val = mountainArray.get(mid);
 
-            int val = mountainArr.get(mid);
             if(val == target) return mid;
 
             if(val < target){
@@ -40,30 +40,31 @@ class Solution {
         }
 
         return -1;
-    }
+    }    
 
-    public int findInMountainArray(int target, MountainArray mountainArr) {
-        int len = mountainArr.length();
+    public int findInMountainArray(int target, MountainArray mountainArray) {
+        int len = mountainArray.length();
         int low = 0;
         int high = len - 1;
 
         while(low < high){
-            int mid = (low + high) / 2;
+            int mid = low + (high - low) / 2;
 
-            if(mountainArr.get(mid) > mountainArr.get(mid + 1)){
+            int curr = mountainArray.get(mid);
+            int next = mountainArray.get(mid + 1);
+
+            if(curr > next){
                 high = mid;
             } else {
                 low = mid + 1;
             }
         }
 
-        int pivot = low;
-        int a1 = bSearch(mountainArr, target, 0, low);
-        int a2 = bReverse(mountainArr, target, low + 1, len - 1);
+        int peak = low;
 
+        int a1 = bSearch(mountainArray, target, 0, peak);
         if(a1 != -1) return a1;
-        if(a2 != -1) return a2;
 
-        return -1;
+        return bSearchReverse(mountainArray, target, peak + 1, len - 1);
     }
 }
