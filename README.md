@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1035-uncrossed-lines](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1035-uncrossed-lines/) | Medium |
+| [1095-find-in-mountain-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1652-defuse-the-bomb](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1095-find-in-mountain-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/2439-minimize-maximum-of-array/) | Medium |
@@ -285,4 +287,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0901-online-stock-span/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1095-find-in-mountain-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1095-find-in-mountain-array/) | Hard |
 <!---LeetCode Topics End-->
