@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0682-baseball-game](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0682-baseball-game/) | Easy |
 | [0697-degree-of-an-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0697-degree-of-an-array/) | Easy |
 | [0704-binary-search](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0704-binary-search/) | Easy |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0443-string-compression/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0881-boats-to-save-people/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0367-valid-perfect-square/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -102,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -260,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0268-missing-number/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0881-boats-to-save-people/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 ## Counting
@@ -300,4 +305,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1095-find-in-mountain-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1095-find-in-mountain-array/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0658-find-k-closest-elements](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0658-find-k-closest-elements/) | Medium |
 <!---LeetCode Topics End-->
