@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0027-remove-element/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0042-trapping-rain-water/) | Hard |
 | [0063-unique-paths-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0063-unique-paths-ii/) | Medium |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
