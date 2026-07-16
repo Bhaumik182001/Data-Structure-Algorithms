@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0443-string-compression/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0881-boats-to-save-people/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -311,4 +312,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0658-find-k-closest-elements/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
