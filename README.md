@@ -317,10 +317,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
