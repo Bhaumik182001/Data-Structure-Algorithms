@@ -14,7 +14,6 @@ class Solution {
         ListNode q = l2;
         ListNode r = new ListNode();
         ListNode temp = r;
-
         int carry = 0;
 
         while(p != null || q != null || carry != 0){
@@ -32,10 +31,9 @@ class Solution {
 
             sum += carry;
 
-            ListNode newNode = new ListNode(sum % 10);
-            temp.next = newNode;
+            ListNode node = new ListNode(sum % 10);
+            temp.next = node;
             temp = temp.next;
-
             carry = sum / 10;
         }
 
