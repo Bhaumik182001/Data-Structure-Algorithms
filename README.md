@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0002-add-two-numbers/) | Medium |
 | [0062-unique-paths](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0268-missing-number/) | Easy |
@@ -317,12 +318,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
