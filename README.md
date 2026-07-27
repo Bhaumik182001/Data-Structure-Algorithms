@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0002-add-two-numbers/) | Medium |
 | [0062-unique-paths](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0367-valid-perfect-square/) | Easy |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0064-minimum-path-sum/) | Medium |
+| [0070-climbing-stairs](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0072-edit-distance/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -332,4 +334,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0234-palindrome-linked-list/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
