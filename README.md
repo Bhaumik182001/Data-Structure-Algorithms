@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0198-house-robber](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0213-house-robber-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0213-house-robber-ii/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0283-move-zeroes/) | Easy |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0072-edit-distance/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0213-house-robber-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0516-longest-palindromic-subsequence/) | Medium |
