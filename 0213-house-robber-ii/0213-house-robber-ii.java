@@ -3,22 +3,22 @@ class Solution {
         if(nums.length == 1) return nums[0];
         if(nums.length == 2) return Math.max(nums[0], nums[1]);
 
-        int[] arr = new int[nums.length];
-        arr[0] = nums[0];
-        arr[1] = Math.max(nums[0], nums[1]);
+        int max1 = robber(nums, 0, nums.length - 2);
+        int max2 = robber(nums, 1, nums.length - 1);
 
-        for(int i = 2; i < nums.length; i++){
-            arr[i] = Math.max(arr[i-1], nums[i] + arr[i-2]);
+        return Math.max(max1, max2);
+    }
+
+    int robber(int[] nums, int start, int end){
+        int stepMinus2 = nums[start];
+        int stepMinus1 = Math.max(nums[start], nums[start + 1]);
+
+        for(int i = start + 2; i <= end; i++){
+            int currentStep = Math.max(nums[i] + stepMinus2, stepMinus1);
+            stepMinus2 = stepMinus1;
+            stepMinus1 = currentStep;
         }
 
-        int[] dp = new int[nums.length];
-        dp[1] = nums[1];
-        dp[2] = Math.max(nums[1], nums[2]);
-
-        for(int i = 3; i <  nums.length; i++){
-            dp[i] = Math.max(dp[i-1], nums[i] + dp[i-2]);
-        }
-
-        return Math.max(arr[arr.length - 2], dp[dp.length - 1]);
+        return stepMinus1;
     }
 }
