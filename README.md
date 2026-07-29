@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0322-coin-change](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0322-coin-change/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0496-next-greater-element-i/) | Easy |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0100-same-tree/) | Easy |
+| [0322-coin-change](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0322-coin-change/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0623-add-one-row-to-tree/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0213-house-robber-ii/) | Medium |
+| [0322-coin-change](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0322-coin-change/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0516-longest-palindromic-subsequence/) | Medium |
