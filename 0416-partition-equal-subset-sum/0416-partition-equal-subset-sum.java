@@ -1,42 +1,27 @@
 class Solution {
-    boolean sum(int[] nums, int target) {
-        // code here
-        int m = nums.length;
-        int n = target;
-        
-        boolean[][] arr = new boolean[m+1][n+1];
-        
-        for(int i = 0; i <= m; i++){
-            arr[i][0] = true;
-        }
-        
-        for(int i = 1; i <= m; i++){
-            for(int sum = 0; sum <= n; sum++){
-                if(nums[i - 1] > sum){
-                    arr[i][sum] = arr[i-1][sum];
-                } else {
-                    arr[i][sum] = arr[i-1][sum] || arr[i-1][sum - nums[i-1]];
-                }
-            }
-        }
-        
-        return arr[m][n];
-    }
-
     public boolean canPartition(int[] nums) {
-
-        int res = 0;
-
-        for(int num: nums){
-            res += num;
+        int sum = 0;
+        int n = nums.length;
+        
+        for(int num : nums){
+            sum += num;
         }
 
-        System.out.println(res);
+        if(sum % 2 != 0) return false;
 
-        if(res % 2 != 0) return false;
+        int target = sum / 2;
 
-        res /= 2;
+        boolean[] dp = new boolean[target + 1];
+        dp[0] = true;
 
-        return sum(nums, res);
+        for(int num : nums){
+            for(int i = target; i >= num; i--){
+                dp[i] = dp[i] || dp[i - num];
+            }
+
+            if(dp[target] == true) return true;
+        }
+
+        return dp[target];
     }
 }
