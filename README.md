@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0322-coin-change](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0322-coin-change/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0623-add-one-row-to-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0951-flip-equivalent-binary-trees](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0100-same-tree/) | Easy |
 | [0322-coin-change](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0322-coin-change/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0623-add-one-row-to-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0623-add-one-row-to-tree/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -234,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0322-coin-change/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -253,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -355,4 +360,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0070-climbing-stairs/) | Easy |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 <!---LeetCode Topics End-->
