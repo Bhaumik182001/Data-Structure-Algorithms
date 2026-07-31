@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0647-palindromic-substrings/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0763-partition-labels](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0763-partition-labels/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0881-boats-to-save-people/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0697-degree-of-an-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0697-degree-of-an-array/) | Easy |
+| [0763-partition-labels](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0763-partition-labels/) | Medium |
 | [0846-hand-of-straights](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0846-hand-of-straights/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0763-partition-labels](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0763-partition-labels/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -302,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0763-partition-labels](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0763-partition-labels/) | Medium |
 | [0846-hand-of-straights](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0846-hand-of-straights/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0881-boats-to-save-people/) | Medium |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
