@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0881-boats-to-save-people/) | Medium |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/2439-minimize-maximum-of-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
