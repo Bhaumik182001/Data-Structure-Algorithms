@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0455-assign-cookies](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0525-contiguous-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0443-string-compression/) | Medium |
+| [0455-assign-cookies](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0455-assign-cookies/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0647-palindromic-substrings/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -306,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0134-gas-station/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0455-assign-cookies](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0763-partition-labels](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0763-partition-labels/) | Medium |
@@ -321,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0268-missing-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0455-assign-cookies](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0455-assign-cookies/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0846-hand-of-straights](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0846-hand-of-straights/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0881-boats-to-save-people/) | Medium |
