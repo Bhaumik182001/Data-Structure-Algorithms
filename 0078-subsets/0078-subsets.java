@@ -1,20 +1,20 @@
 class Solution {
-    void fun(int[] arr, int start, List<Integer> temp, List<List<Integer>> res){
-        res.add(new ArrayList<>(temp));
-
-        for(int i = start; i < arr.length; i++){
-            temp.add(arr[i]);
-            fun(arr, i + 1, temp, res);
-            temp.remove(temp.size() - 1);
-        }
-    }
-
     public List<List<Integer>> subsets(int[] nums) {
-        ArrayList<List<Integer>> res = new ArrayList<>();
-        List<Integer> temp = new  ArrayList<>();
+        List<Integer> currentPath = new ArrayList<>();
+        List<List<Integer>> res = new ArrayList<>();
 
-        fun(nums, 0, temp, res);
+        backtrack(0, nums, currentPath, res);
 
         return res;
+    }
+
+    private void backtrack(int start, int[] nums, List<Integer> currentPath, List<List<Integer>> res){
+        res.add(new ArrayList<>(currentPath));
+
+        for(int i = start; i < nums.length; i++){
+            currentPath.add(nums[i]);
+            backtrack(i + 1, nums, currentPath, res);
+            currentPath.remove(currentPath.size() - 1);
+        }
     }
 }
