@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0053-maximum-subarray/) | Medium |
@@ -410,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
