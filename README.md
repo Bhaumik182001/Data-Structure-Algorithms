@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0078-subsets/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0268-missing-number](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -401,4 +403,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
