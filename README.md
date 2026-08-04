@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0045-jump-game-ii/) | Medium |
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0072-edit-distance](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0091-decode-ways/) | Medium |
@@ -413,10 +415,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0131-palindrome-partitioning/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
