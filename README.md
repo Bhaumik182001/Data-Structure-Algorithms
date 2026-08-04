@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0090-subsets-ii/) | Medium |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0079-word-search/) | Medium |
 | [0100-same-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -283,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0079-word-search/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -292,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0072-edit-distance](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0072-edit-distance/) | Medium |
+| [0079-word-search](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0125-valid-palindrome/) | Easy |
@@ -420,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bracket Sequences
