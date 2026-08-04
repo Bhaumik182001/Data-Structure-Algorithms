@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0097-interleaving-string/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0213-house-robber-ii/) | Medium |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0242-valid-anagram/) | Easy |
@@ -416,4 +418,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0131-palindrome-partitioning/) | Medium |
 <!---LeetCode Topics End-->
