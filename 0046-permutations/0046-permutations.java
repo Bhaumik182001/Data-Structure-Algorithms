@@ -1,22 +1,29 @@
 class Solution {
-    void recursion(int[] arr, int start, List<Integer> temp, ArrayList<List<Integer>> res){
-        if(temp.size() == arr.length){
-            res.add(new ArrayList<>(temp));
-            return;
-        }
+    public List<List<Integer>> permute(int[] nums) {
+        List<List<Integer>> res = new ArrayList<>();
+        List<Integer> currentPath = new ArrayList<>();
+        boolean[] used = new boolean[nums.length];
 
-        for(int i = 0; i < arr.length; i++){
-             if(temp.contains(arr[i])) continue;
-            temp.add(arr[i]);
-            recursion(arr, i + 1, temp, res);
-            temp.remove(temp.size() - 1);
-        }
+        backtrack(nums, used, currentPath, res);
+
+        return res;
     }
 
-    public List<List<Integer>> permute(int[] arr) {
-        ArrayList<List<Integer>> res = new ArrayList<>();
-        List<Integer> temp = new ArrayList<>();
-        recursion(arr, 0, temp, res);
-        return res;
+    private void backtrack(int[] nums, boolean[] used, List<Integer> currentPath, List<List<Integer>> result){
+        if(currentPath.size() == nums.length){
+            result.add(new ArrayList<>(currentPath));
+        }
+
+        for(int i = 0; i < nums.length; i++){
+            if(used[i] == true) continue;
+
+            used[i] = true;
+            currentPath.add(nums[i]);
+
+            backtrack(nums, used, currentPath, result);
+
+            used[i] = false;
+            currentPath.remove(currentPath.size() - 1);
+        }
     }
 }
