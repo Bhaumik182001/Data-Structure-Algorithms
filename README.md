@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0035-search-insert-position/) | Easy |
+| [0037-sudoku-solver](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0042-trapping-rain-water/) | Hard |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0037-sudoku-solver](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0037-sudoku-solver/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0140-word-break-ii/) | Hard |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0037-sudoku-solver/) | Hard |
 | [0063-unique-paths-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -431,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0022-generate-parentheses/) | Medium |
+| [0037-sudoku-solver](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0046-permutations/) | Medium |
@@ -447,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0051-n-queens/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
@@ -457,4 +462,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0139-word-break/) | Medium |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
