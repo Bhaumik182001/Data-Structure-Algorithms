@@ -1,65 +1,36 @@
 class Solution {
-    void dfsB(char[][] grid, int i, int j, int r, int c){
-        if(i == r || j == c || i < 0 || j < 0 || grid[i][j] != 'O') return;
+    public void solve(char[][] board) {
+        if(board == null || board.length == 0) return;
 
-        grid[i][j] = 'S';
+        int row = board.length;
+        int column = board[0].length;
 
-        dfsB(grid, i, j + 1, r, c);
-        dfsB(grid, i - 1, j, r, c);
-        dfsB(grid, i, j - 1, r, c);
-        dfsB(grid, i + 1, j, r, c);
-    }
-
-    void dfs(char[][] grid, int i, int j, int r, int c){
-        if(i == r || j == c || i < 0 || j < 0 || grid[i][j] != 'O') return;
-
-        grid[i][j] = 'X';
-
-        dfs(grid, i, j + 1, r, c);
-        dfs(grid, i - 1, j, r, c);
-        dfs(grid, i, j - 1, r, c);
-        dfs(grid, i + 1, j, r, c);
-    }
-
-    void dfsR(char[][] grid, int i, int j, int r, int c){
-        if(i == r || j == c || i < 0 || j < 0 || grid[i][j] != 'S') return;
-
-        grid[i][j] = 'O';
-
-        dfsR(grid, i, j + 1, r, c);
-        dfsR(grid, i - 1, j, r, c);
-        dfsR(grid, i, j - 1, r, c);
-        dfsR(grid, i + 1, j, r, c);
-    }
-
-    public void solve(char[][] grid) {
-        int r = grid.length;
-        int c = grid[0].length;
-
-        for(int i = 0; i < r; i++){
-            for(int j = 0; j < c; j++){
-                boolean isBorder = (i == 0 || j == 0 || i == (r - 1) || j == (c - 1));
-                if(grid[i][j] == 'O' && isBorder){
-                    dfsB(grid, i, j, r, c);
-                }  
-
-            }
+        for(int c = 0; c < column; c++){
+            if(board[0][c] == 'O') dfs(0, c, row, column, board);
+            if(board[row - 1][c] == 'O') dfs(row - 1, c, row, column, board);    
         }
 
-        for(int i = 0; i < r; i++){
-            for(int j = 0; j < c; j++){
-                if(grid[i][j] == 'O'){
-                    dfs(grid, i, j, r, c);
-                } 
-            }
+        for(int r = 0; r < row; r++){
+            if(board[r][0] == 'O') dfs(r, 0, row, column, board);
+            if(board[r][column - 1] == 'O') dfs(r, column - 1, row, column, board);
         }
 
-        for(int i = 0; i < r; i++){
-            for(int j = 0; j < c; j++){
-                if(grid[i][j] == 'S'){
-                    dfsR(grid, i, j, r, c);
-                } 
+        for(int i = 0; i < row; i++){
+            for(int j = 0; j < column; j++){
+                if(board[i][j] == 'O') board[i][j] = 'X';
+                else if(board[i][j] == 'T') board[i][j] = 'O';
             }
         }
+    }
+
+    private void dfs(int r, int c, int row, int column, char[][] board){
+        if(r < 0 || r >= row || c < 0 || c >= column || board[r][c] != 'O') return;
+
+        board[r][c] = 'T';
+
+        dfs(r, c + 1, row, column, board);
+        dfs(r + 1, c, row, column, board);
+        dfs(r, c - 1, row, column, board);
+        dfs(r - 1, c, row, column, board);
     }
 }
