@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0090-subsets-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0134-gas-station/) | Medium |
 | [0139-word-break](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0140-word-break-ii/) | Hard |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0079-word-search/) | Medium |
 | [0100-same-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0130-surrounded-regions](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0200-number-of-islands/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0623-add-one-row-to-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0623-add-one-row-to-tree/) | Medium |
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0100-same-tree/) | Easy |
+| [0130-surrounded-regions](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -302,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0079-word-search/) | Medium |
+| [0130-surrounded-regions](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0200-number-of-islands/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0695-max-area-of-island](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0695-max-area-of-island/) | Medium |
@@ -372,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0695-max-area-of-island/) | Medium |
 ## Stack
