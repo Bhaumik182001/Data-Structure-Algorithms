@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0198-house-robber](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0213-house-robber-ii/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0079-word-search/) | Medium |
 | [0100-same-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0200-number-of-islands](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0200-number-of-islands/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0623-add-one-row-to-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0951-flip-equivalent-binary-trees](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0100-same-tree/) | Easy |
+| [0200-number-of-islands](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0623-add-one-row-to-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0623-add-one-row-to-tree/) | Medium |
@@ -296,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0079-word-search/) | Medium |
+| [0200-number-of-islands](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0200-number-of-islands/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -364,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0200-number-of-islands/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
