@@ -1,38 +1,40 @@
 class Solution {
-    private static final int[] dx = {1, 0, 0, -1};
-    private static final int[] dy = {0, -1, 1, 0};
-    private static final char[] moves = {'D', 'L', 'R', 'U'};
+    private static final int[] dRow = {1, 0, 0, -1};
+    private static final int[] dCol = {0, -1, 1, 0};
+    private static final char[] dirChar = {'D', 'L', 'R', 'U'};
     
     public ArrayList<String> ratInMaze(int[][] maze) {
-        // code here
-        ArrayList<String> res = new ArrayList<>();
+        ArrayList<String> result = new ArrayList<>();
         int n = maze.length;
         
-        if(maze[0][0] == 0 || maze[n - 1][n - 1] == 0) return res;
+        if(maze[0][0] == 0 || maze[n-1][n-1] == 0) return result;
         
-        boolean[][] visited = new boolean[n][n];
-        visited[0][0] = true;
+        StringBuilder currentPath = new StringBuilder();
         
-        dfs(maze, 0, 0, n, "", res, visited);
+        backtrack(0, 0, n, maze, currentPath, result);
         
-        return res;
+        return result;
     }
     
-    public void dfs(int[][] maze, int r, int c, int n, String path, ArrayList<String> res, boolean[][] visited){
-        if(r == n- 1 && c == n - 1){
-            res.add(path);
+    private void backtrack(int row, int column, int n, int[][] maze, StringBuilder currentPath, List<String> result){
+        if(row == n-1 && column == n - 1){
+            result.add(currentPath.toString());
             return;
         }
         
+        maze[row][column] = 0;
+        
         for(int i = 0; i < 4; i++){
-            int x = r + dx[i];
-            int y = c + dy[i];
+            int newRow = row + dRow[i];
+            int newColumn = column + dCol[i];
             
-            if(x >= 0 && y >= 0 && x < n && y < n && !visited[x][y] && maze[x][y] ==1){
-                visited[x][y] = true;
-                dfs(maze, x, y, n, path + moves[i], res, visited);
-                visited[x][y] = false;
+            if(newRow >= 0 && newRow < n && newColumn >= 0 && newColumn < n && maze[newRow][newColumn] == 1){
+                currentPath.append(dirChar[i]);
+                backtrack(newRow, newColumn, n, maze, currentPath, result);
+                currentPath.deleteCharAt(currentPath.length() - 1);
             }
         }
+        
+        maze[row][column] = 1;
     }
 }
