@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0682-baseball-game](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0682-baseball-game/) | Easy |
+| [0695-max-area-of-island](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0695-max-area-of-island/) | Medium |
 | [0697-degree-of-an-array](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0697-degree-of-an-array/) | Easy |
 | [0704-binary-search](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0739-daily-temperatures/) | Medium |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0200-number-of-islands/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0623-add-one-row-to-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0623-add-one-row-to-tree/) | Medium |
+| [0695-max-area-of-island](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0695-max-area-of-island/) | Medium |
 | [0951-flip-equivalent-binary-trees](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 ## Breadth-First Search
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0623-add-one-row-to-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0623-add-one-row-to-tree/) | Medium |
+| [0695-max-area-of-island](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0695-max-area-of-island/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -301,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0200-number-of-islands/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0695-max-area-of-island](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0695-max-area-of-island/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -369,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0695-max-area-of-island/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
