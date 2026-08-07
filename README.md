@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0207-course-schedule/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0623-add-one-row-to-tree/) | Medium |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0100-same-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -447,10 +449,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0207-course-schedule/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0207-course-schedule/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -488,4 +492,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0037-sudoku-solver/) | Hard |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Bhaumik182001/Data-Structure-Algorithms/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
